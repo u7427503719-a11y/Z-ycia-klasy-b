@@ -8,13 +8,13 @@ const posts = [
         desc: "Opis wpisu 1"
     },
     {
-        title: "Wpis 2",
+        title: "Wycieczka w Pieniny",
         img1: "img/zdjecie2a.jpg",
         img2: "img/zdjecie2b.jpg",
         desc: "Opis wpisu 2"
     },
     {
-        title: "Wpis 3",
+        title: "Dzień dziewczyny",
         img1: "img/zdjecie3a.jpg",
         img2: "img/zdjecie3b.jpg",
         desc: "Opis wpisu 3"
